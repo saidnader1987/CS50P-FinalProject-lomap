@@ -1,0 +1,20 @@
+id,face_value,bank,issue_date,loan_term,payment_frequency,interest_rate,interest_rate_type,nominal_rate_compounding_period,interest_payment_frequency
+1,150000.0,Bank of America,2020-12-05,6,monthly,3.50,nominal,semi-annually,at maturity
+2,16250.0,Chase,2021-01-01,12,at maturity,4.50,effective,annually,annually
+3,65000.0,Goldman Sachs,2022-03-26,36,annually,6.50,nominal,semi-annually,semi-annually
+4,19500.0,Wells Fargo,2020-01-02,6,bi-monthly,4.70,nominal,monthly,monthly
+5,100000.0,Capital One,2022-07-21,6,at maturity,5.68,nominal,quarterly,quarterly
+6,50400.0,Bank of America,2022-06-23,6,at maturity,3.40,nominal,monthly,monthly
+7,37100.0,Citibank,2022-06-23,6,bi-monthly,3.40,nominal,monthly,monthly
+8,37500.0,Chase,2022-06-07,6,quarterly,5.11,effective,annually,monthly
+9,17500.0,Bank of America,2022-06-28,6,semi-annually,3.50,nominal,semi-annually,semi-annually
+10,29166.0,Chase,2022-05-11,12,quarterly,3.50,nominal,quarterly,quarterly
+11,125000.0,Goldman Sachs,2022-05-23,18,semi-annually,2.95,nominal,monthly,monthly
+12,12500.0,Wells Fargo,2021-12-27,12,at maturity,4.60,effective,annually,annually
+13,100.0,Bank Of America,2022-01-01,24,monthly,3.5,effective,annually,monthly
+14,200.0,Goldman Sachs,2023-01-01,24,monthly,4.0,effective,annually,monthly
+15,100.0,Bank Of America,2022-01-01,24,monthly,3.5,effective,annually,monthly
+16,100.0,Bank Of America,2022-01-01,6,monthly,3.5,effective,annually,monthly
+17,100.0,Chase,2022-02-28,6,monthly,3.5,effective,annually,monthly
+18,200.0,Bancolombia,2022-02-20,6,monthly,4.0,effective,annually,monthly
+19,200.0,Colpatria,2022-02-21,6,monthly,2.0,nominal,semi-annually,monthly
