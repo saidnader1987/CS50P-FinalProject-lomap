@@ -1,5 +1,5 @@
 # loMap
-#### Video Demo:  <https://studio.youtube.com/video/EuaCxOlA9wg/edit>
+#### Video Demo:  <https://www.youtube.com/watch?v=EuaCxOlA9wg>
 #### Description: Loans management application
 
 ## Concept
